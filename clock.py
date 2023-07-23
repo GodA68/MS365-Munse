@@ -19,3 +19,4 @@ focus_interval = int(input("Enter focus interval in minutes: "))
 break_interval = int(input("Enter break interval in minutes: "))
 
 focus_timer(total_time, focus_interval, break_interval)
+print("2023/7/23_19:08")
